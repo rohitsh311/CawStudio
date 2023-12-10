@@ -1,0 +1,31 @@
+
+[
+{
+	"name": "Bob",
+	"gender": "Male",
+	"age": "20"
+},
+
+{
+"name":"George",
+"gender":"Male",
+"age":"42"
+},
+
+{
+"name":"Sara",
+"gender":"female",
+"age": "42"
+},
+
+{
+"name":"Conor",
+"gender":"Male",
+"age":"42"
+},
+
+{"name":"Jennifer",
+"gender":"female",
+"age":"42"
+}
+]
